@@ -1,0 +1,10 @@
+computer_systems(no).
+computer_or_manually(computer).
+better_in_solving_problem(solving_problem).
+work_with_numbers(yes).
+technology(apply).
+maths(yes).
+deal_with_circuits(yes).
+chemistry(no).
+physics(no).
+biology(yes).
